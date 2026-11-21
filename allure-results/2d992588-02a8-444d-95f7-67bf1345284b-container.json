@@ -1,0 +1,1 @@
+{"uuid":"2d992588-02a8-444d-95f7-67bf1345284b","name":"com.nic.sarathi.api.testcases.CartTests","children":["b2b299c3-dd48-474b-b7ba-40a24a132ffc"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1795260247436,"stop":1795260247601}],"afters":[],"start":1795260247422,"stop":1795260249161}
